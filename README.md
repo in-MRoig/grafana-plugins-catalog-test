@@ -1,0 +1,1 @@
+# grafana-plugins-catalog-test
