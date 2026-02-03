@@ -1,14 +1,16 @@
-﻿{
-    "url":  "https://github.com/in-mroig/dg-echarts-panel",
-    "id":  "dg-echarts-panel",
-    "type":  "panel",
-    "name":  "Sklum Echarts Panel",
-    "versions":  [
-                     {
-                         "commit":  "4bf2bc72edfce9f23dbe1193535a1c69620482f7",
-                         "created":  "2026-02-03",
-                         "url":  "https://in-mroig.github.io/grafana-plugins-catalog-test/artifacts/dg-echarts-panel-v1.0.4.zip",
-                         "version":  "1.0.4"
-                     }
-                 ]
-}
+[
+  {
+    "id": "dg-echarts-panel",
+    "name": "Sklum Echarts Panel",
+    "type": "panel",
+    "url": "https://github.com/in-mroig/dg-echarts-panel",
+    "versions": [
+      {
+        "version": "1.0.6",
+        "url": "https://in-mroig.github.io/grafana-plugins-catalog-test/artifacts/dg-echarts-panel-v1.0.6.zip",
+        "commit": "3bfe6fe3bc78e6e1c731a742381ca03f4c8bf905",
+        "created": "2026-02-03"
+      }
+    ]
+  }
+]
