@@ -6,6 +6,12 @@
     "url": "https://github.com/in-mroig/dg-echarts-panel",
     "versions": [
       {
+        "version": "1.2.10",
+        "url": "https://in-mroig.github.io/grafana-plugins-catalog-test/artifacts/dg-echarts-panel-v1.2.10.zip",
+        "commit": "a3196fd9ef8fbf0d00c642066105daa875b82bf0",
+        "created": "2026-02-04"
+      },
+      {
         "version": "1.2.9",
         "url": "https://in-mroig.github.io/grafana-plugins-catalog-test/artifacts/dg-echarts-panel-v1.2.9.zip",
         "commit": "f4b45f8d889c947d119877c3c0b6a5863daf4275",
