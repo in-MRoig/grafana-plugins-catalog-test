@@ -1,21 +1,32 @@
-[
-  {
-    "id": "dg-echarts-panel",
-    "type": "panel",
-    "name": "Sklum Echarts Panel",
-    "versions": [
-      {
-        "version": "1.2.8",
-        "url": "https://in-mroig.github.io/grafana-plugins-catalog-test/artifacts/dg-echarts-panel-v1.2.8.zip",
-        "arch": ["any"],
-        "created": "2026-02-04T10:00:00Z"
+{
+  "plugins": [
+    {
+      "id": "dg-echarts-panel",
+      "type": "panel",
+      "name": "dg Echarts Panel",
+      "info": {
+        "description": "Panel personalizado Sklum",
+        "author": { "name": "dg" },
+        "logos": { "small": "img/logo.svg", "large": "img/logo.svg" },
+        "links": [],
+        "screenshots": [],
+        "updated": "2026-02-04",
+        "version": "1.2.8"
       },
-      {
-        "version": "1.2.1",
-        "url": "https://in-mroig.github.io/grafana-plugins-catalog-test/artifacts/dg-echarts-panel-v1.2.1.zip",
-        "arch": ["any"],
-        "created": "2026-02-04T09:00:00Z"
-      }
-    ]
-  }
-]
+      "versions": [
+        {
+          "version": "1.2.8",
+          "url": "https://in-mroig.github.io/grafana-plugins-catalog-test/artifacts/dg-echarts-panel-v1.2.8.zip",
+          "arch": ["any"],
+          "created": "2026-02-04T10:00:00Z"
+        },
+        {
+          "version": "1.2.1",
+          "url": "https://in-mroig.github.io/grafana-plugins-catalog-test/artifacts/dg-echarts-panel-v1.2.1.zip",
+          "arch": ["any"],
+          "created": "2026-02-04T09:00:00Z"
+        }
+      ]
+    }
+  ]
+}
