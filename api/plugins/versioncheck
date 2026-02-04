@@ -1,0 +1,9 @@
+{
+  "dg-echarts-panel": {
+    "id": "dg-echarts-panel",
+    "version": "1.2.8",
+    "url": "https://in-mroig.github.io/grafana-plugins-catalog-test/artifacts/dg-echarts-panel-v1.2.8.zip",
+    "arch": ["any"],
+    "created": "2026-02-04T10:00:00Z"
+  }
+}
